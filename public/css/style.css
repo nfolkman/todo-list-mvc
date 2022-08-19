@@ -1,0 +1,18 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    color: rgb(195, 37, 37);
+}
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
+.not{
+    text-decoration: underline;
+}
+
+.del{
+    margin: 0 10px;
+}
